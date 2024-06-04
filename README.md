@@ -1,6 +1,6 @@
 # Real-time Collaborative Code Editor
 
-This project is a real-time collaborative code editor that allows multiple users to simultaneously edit and view the same code file in real-time. It showcases the use of JavaScript, web sockets, and real-time synchronization to create a seamless collaborative coding experience.
+This project is a real-time collaborative code editor that allows multiple users to simultaneously edit and view the same code file in real-time. It uses JavaScript, web sockets, and real-time synchronization to create a seamless collaborative coding experience.
 
 ## Features
 
