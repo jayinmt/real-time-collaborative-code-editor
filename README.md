@@ -36,7 +36,7 @@ To run the collaborative code editor locally, follow these steps:
 4. Use the chat functionality to communicate with other users while collaborating on the code.
 5. Observe other users' cursor positions as they move through the code.
 
-## Current Limitations and TODOs
+## Current Limitations and Upcoming Implementations
 
 - Code execution is not yet implemented. The server includes a placeholder for this feature.
 - User authentication is currently using a placeholder function. A proper authentication system needs to be implemented.
