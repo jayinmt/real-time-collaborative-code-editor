@@ -22,7 +22,7 @@ This project is a real-time collaborative code editor that allows multiple users
 
 To run the collaborative code editor locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jaydxyz/real-time-collaborative-code-editor.git`
+1. Clone the repository: `git clone https://github.com/jayinmt/real-time-collaborative-code-editor.git`
 2. Navigate to the project directory: `cd real-time-collaborative-code-editor`
 3. Install the dependencies: `npm install`
 4. Start the server: `node server.js`
